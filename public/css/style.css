@@ -1,0 +1,23 @@
+/** @format */
+
+* {
+	margin: 0px;
+	padding: 0px;
+
+	font-family: 'Poppins', sans-serif;
+}
+
+.fa-phone-alt {
+	color: white;
+}
+.txt-cl-white {
+	font-size: 12px;
+	color: white;
+}
+.txt-cl-black {
+	font-size: 12px;
+	color: black;
+}
+a {
+	text-decoration: none;
+}
